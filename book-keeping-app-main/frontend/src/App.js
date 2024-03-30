@@ -8,7 +8,7 @@ import Profile from './components/Profile/Profile';
 import Books from './components/Books/Books';
 import AddBook from './components/Books/AddBook';
 import UpdateProfile from './components/UpdateProfile/UpdateProfile';
-import BookDetail from './components/Books/BookDetail';
+import BookDetail    from './components/Books/BookDetail';
 import Users from './components/Users/Users';
 
 const App = () => {

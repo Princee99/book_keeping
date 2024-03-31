@@ -20,7 +20,7 @@ const Header = () => {
     <header>
       <nav className='navbar navbar-expand-lg navbar-dark bg-dark'>
         <Link className='navbar-brand' to='/'>
-          BK
+         BookBalance
         </Link>
         <button
           className='navbar-toggler'
@@ -130,7 +130,6 @@ const Header = () => {
                         className='mr-5'
                         href='https://github.com/tweneboah'
                         target='_'>
-                        developed by: i-NovoTec
                       </a>
                       <button
                         type='button'
